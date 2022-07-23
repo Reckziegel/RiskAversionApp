@@ -1,0 +1,13 @@
+name: RiskAversionApp
+title: RiskAversionApp
+username:
+account: reckziegel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6682911
+bundleId: 6126392
+url: https://reckziegel.shinyapps.io/RiskAversionApp/
+when: 1658604407.86131
+lastSyncTime: 1658604407.86131
+asMultiple: FALSE
+asStatic: FALSE
